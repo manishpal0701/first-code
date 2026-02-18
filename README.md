@@ -1,2 +1,3 @@
 # first-code
-this is my first git code
+This is my first git code.
+Author -Manish Pal
